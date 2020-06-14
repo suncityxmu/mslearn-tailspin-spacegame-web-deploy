@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/suncity0322/SpaceGameLearn/_apis/build/status/suncityxmu.mslearn-tailspin-spacegame-web-deploy?branchName=master)](https://dev.azure.com/suncity0322/SpaceGameLearn/_build/latest?definitionId=10&branchName=master)
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
